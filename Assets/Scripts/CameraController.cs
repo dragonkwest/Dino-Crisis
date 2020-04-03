@@ -55,7 +55,7 @@ public class CameraController : MonoBehaviour {
         {
             target = P1;
             PC1.enabled = true;
-            PC2.enabled = false;
+            //PC2.enabled = false;
         }
 
         if (switched == true)

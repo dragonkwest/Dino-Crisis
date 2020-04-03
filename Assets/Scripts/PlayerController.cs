@@ -166,7 +166,7 @@ public class PlayerController : MonoBehaviour {
                     myRigidBody.velocity = new Vector3(moveSpeed, myRigidBody.velocity.y, 0f);
                     if (shrunk == false)
                     {
-                        transform.localScale = new Vector3(1f, 1f, 1f);
+                        transform.localScale = new Vector3(-1f, 1f, 1f);
                     }
 
                     else if (shrunk == true)
@@ -179,7 +179,7 @@ public class PlayerController : MonoBehaviour {
                     myRigidBody.velocity = new Vector3(-moveSpeed, myRigidBody.velocity.y, 0f);
                     if (shrunk == false)
                     {
-                        transform.localScale = new Vector3(-1f, 1f, 1f);
+                        transform.localScale = new Vector3(1f, 1f, 1f);
                     }
 
                     else if (shrunk == true)
@@ -201,7 +201,7 @@ public class PlayerController : MonoBehaviour {
                 myRigidBody.velocity = new Vector3(moveSpeed, myRigidBody.velocity.y, 0f);
                 if (shrunk == false)
                 {
-                    transform.localScale = new Vector3(1f, 1f, 1f);
+                    transform.localScale = new Vector3(-1f, 1f, 1f);
                 }
 
                 else if (shrunk == true)
@@ -216,7 +216,7 @@ public class PlayerController : MonoBehaviour {
                 myRigidBody.velocity = new Vector3(-moveSpeed, myRigidBody.velocity.y, 0f);
                 if (shrunk == false)
                 {
-                    transform.localScale = new Vector3(-1f, 1f, 1f);
+                    transform.localScale = new Vector3(1f, 1f, 1f);
                 }
 
                 else if (shrunk == true)
