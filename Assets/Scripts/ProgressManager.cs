@@ -29,13 +29,13 @@ public class ProgressManager : MonoBehaviour
     {
         if (currentLevel == 0)
         {
-            SceneManager.LoadScene("LoadingScene"); //LoadingScene loads up the tutorial
+            SceneManager.LoadScene("LoadingScene2"); //LoadingScene loads up the tutorial
 
         }
 
         else if (currentLevel == 1)
         {
-            SceneManager.LoadScene("LoadingScene2"); //LoadingScene2 loads the first level
+            SceneManager.LoadScene("LoadingScene3"); //LoadingScene2 loads the first level
         }
      }
        
