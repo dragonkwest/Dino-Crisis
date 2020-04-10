@@ -20,7 +20,7 @@ public class Colors : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if{ if(Input.GetMouseButtonDown(0)}
+        if {if(Input.GetMouseButtonDown(0)};
         {
             // Change the 'color' property of the 'Sprite Renderer'
             sprite.color = new Color(1, 0, 0, 1);

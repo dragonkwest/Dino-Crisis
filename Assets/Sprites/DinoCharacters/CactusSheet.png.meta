@@ -1,34 +1,43 @@
 fileFormatVersion: 2
-guid: 553fbffebb15347bfa13dc99150e78d6
+guid: 46d46479af20140ebbd824e456996bda
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6099861520993566547
-    second: TarPitSpriteSheet_0
+      213: -2650737326432602788
+    second: CactusSheet_0
   - first:
-      213: 8452441959535860822
-    second: TarPitSpriteSheet_1
+      213: -640141876634752000
+    second: CactusSheet_1
   - first:
-      213: -8001060366744865348
-    second: TarPitSpriteSheet_2
+      213: 1728597294292950154
+    second: CactusSheet_2
   - first:
-      213: 5895721000306944063
-    second: TarPitSpriteSheet_3
+      213: -4176498573896994034
+    second: CactusSheet_3
   - first:
-      213: 4255452136217813543
-    second: TarPitSpriteSheet_4
+      213: 7462401727422946510
+    second: CactusSheet_4
   - first:
-      213: -4680369461285102743
-    second: TarPitSpriteSheet_5
+      213: -2984858168387303331
+    second: CactusSheet_5
   - first:
-      213: 3419926135358470730
-    second: TarPitSpriteSheet_6
+      213: -2447026565752887671
+    second: CactusSheet_6
   - first:
-      213: -4319842367498086103
-    second: TarPitSpriteSheet_7
+      213: -6730821952802299741
+    second: CactusSheet_7
   - first:
-      213: -2654892423318353238
-    second: TarPitSpriteSheet_8
+      213: 4700713856784610124
+    second: CactusSheet_8
+  - first:
+      213: 109443441429394232
+    second: CactusSheet_9
+  - first:
+      213: -1728742609274930103
+    second: CactusSheet_10
+  - first:
+      213: 1763703618358732526
+    second: CactusSheet_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -125,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TarPitSpriteSheet_0
+      name: CactusSheet_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 836
-        width: 321
-        height: 125
+        x: 103
+        y: 398
+        width: 192
+        height: 284
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 334a4eb70893a4600aca0429ea9a5598
-      internalID: 6099861520993566547
+      spriteID: 718ee1b176a1f4b27b971f0bcd94e058
+      internalID: -2650737326432602788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_1
+      name: CactusSheet_1
       rect:
         serializedVersion: 2
-        x: 368
-        y: 838
-        width: 323
-        height: 125
+        x: 369
+        y: 395
+        width: 218
+        height: 228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac91c416f54094478bc74be257ab9ad0
-      internalID: 8452441959535860822
+      spriteID: 2999bc1e315094234b937ca2440bfb0b
+      internalID: -640141876634752000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_2
+      name: CactusSheet_2
       rect:
         serializedVersion: 2
-        x: 718
-        y: 844
-        width: 329
-        height: 124
+        x: 665
+        y: 397
+        width: 224
+        height: 221
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +190,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62ed1a0cce5944455932b63343f3b65d
-      internalID: -8001060366744865348
+      spriteID: 3f930cc53c5e14a538dd690b050508e7
+      internalID: 1728597294292950154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_3
+      name: CactusSheet_3
       rect:
         serializedVersion: 2
-        x: 1083
-        y: 842
-        width: 334
-        height: 126
+        x: 954
+        y: 398
+        width: 225
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e57e40717b6c84d93963d586a6abc3b2
-      internalID: 5895721000306944063
+      spriteID: 988cbb0e9d6384016981558f99c454da
+      internalID: -4176498573896994034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_4
+      name: CactusSheet_4
       rect:
         serializedVersion: 2
-        x: 8
-        y: 448
-        width: 317
-        height: 107
+        x: 1230
+        y: 372
+        width: 170
+        height: 249
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +232,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1beb960e71143428bb29d4e8bcea8020
-      internalID: 4255452136217813543
+      spriteID: 8927c0dc9db5e4fa5ae6727098f503c3
+      internalID: 7462401727422946510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_5
+      name: CactusSheet_5
       rect:
         serializedVersion: 2
-        x: 366
-        y: 436
-        width: 325
-        height: 121
+        x: 1481
+        y: 367
+        width: 196
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +253,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33e805d1abc1f419190708ae19ae6f61
-      internalID: -4680369461285102743
+      spriteID: 5af1672a7066e41099b11546a5bf91e5
+      internalID: -2984858168387303331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_6
+      name: CactusSheet_6
       rect:
         serializedVersion: 2
-        x: 719
-        y: 445
-        width: 323
-        height: 113
+        x: 1726
+        y: 377
+        width: 237
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 241c8489926d343ac92ac7fc790dc79b
-      internalID: 3419926135358470730
+      spriteID: 6617daa728a274663aa0345771a8be68
+      internalID: -2447026565752887671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_7
+      name: CactusSheet_7
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 439
-        width: 332
-        height: 107
+        x: 112
+        y: 40
+        width: 137
+        height: 284
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +295,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d53339d888e547809ef1ea36debd2f7
-      internalID: -4319842367498086103
+      spriteID: 7ecb504b746d842c88b1089f9fc1a8e5
+      internalID: -6730821952802299741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TarPitSpriteSheet_8
+      name: CactusSheet_8
       rect:
         serializedVersion: 2
-        x: 11
-        y: 130
-        width: 316
-        height: 77
+        x: 321
+        y: 35
+        width: 217
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,8 +316,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd38adca80f444ea1b96d40f72ccdb3e
-      internalID: -2654892423318353238
+      spriteID: b453e87a6bac3445088c97cdd410e5ce
+      internalID: 4700713856784610124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CactusSheet_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 41
+        width: 168
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2954ffb60fb274f598716acb2a21fd71
+      internalID: 109443441429394232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CactusSheet_10
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 42
+        width: 144
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638d7ba3cbbde4e1b9edbe778236d47f
+      internalID: -1728742609274930103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CactusSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 27
+        width: 195
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2834efad544e1aa2b94527d701604
+      internalID: 1763703618358732526
       vertices: []
       indices: 
       edges: []

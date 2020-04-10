@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 56c6edb8929ee498ca79ab95dacde900
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5100006418908805989
+    second: CrystalSpikeSheet_0
+  - first:
+      213: -5550203840205036681
+    second: CrystalSpikeSheet_1
+  - first:
+      213: -4644454652677236241
+    second: CrystalSpikeSheet_2
+  - first:
+      213: -3212410695870846607
+    second: CrystalSpikeSheet_3
+  - first:
+      213: -9160770643278616207
+    second: CrystalSpikeSheet_4
+  - first:
+      213: -7925798127687257630
+    second: CrystalSpikeSheet_5
+  - first:
+      213: -2707341672220421511
+    second: CrystalSpikeSheet_6
+  - first:
+      213: -8849684167047032770
+    second: CrystalSpikeSheet_7
+  - first:
+      213: 4189537173255424837
+    second: CrystalSpikeSheet_8
+  - first:
+      213: -1595134695736740070
+    second: CrystalSpikeSheet_9
+  - first:
+      213: -7486897436597438598
+    second: CrystalSpikeSheet_10
+  - first:
+      213: 7386743807932714693
+    second: CrystalSpikeSheet_11
+  - first:
+      213: 8639590441901446056
+    second: CrystalSpikeSheet_12
+  - first:
+      213: -8369363026941064763
+    second: CrystalSpikeSheet_13
+  - first:
+      213: -8535710582239956982
+    second: CrystalSpikeSheet_14
+  - first:
+      213: 2493399365155336362
+    second: CrystalSpikeSheet_15
+  - first:
+      213: 867693101282864621
+    second: CrystalSpikeSheet_16
+  - first:
+      213: 5411489068813903002
+    second: CrystalSpikeSheet_17
+  - first:
+      213: -1624547228594647237
+    second: CrystalSpikeSheet_18
+  - first:
+      213: -1985687407596201794
+    second: CrystalSpikeSheet_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1641
+        width: 247
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18c67daa93d40e391e10de8ab1e100
+      internalID: 5100006418908805989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1620
+        width: 268
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb5f6e526e74721a93f9edaf67ffd0
+      internalID: -5550203840205036681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1630
+        width: 271
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb211ab3c27418983f813a2c75610d
+      internalID: -4644454652677236241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1635
+        width: 256
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62295f3e84efb46a4a46864789202a7c
+      internalID: -3212410695870846607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1632
+        width: 259
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37febfc29062d40fbba5ffb398b1c99f
+      internalID: -9160770643278616207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1616
+        width: 259
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30709beb0166d41a8b4ba6b598535e98
+      internalID: -7925798127687257630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1625
+        width: 243
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32519a112d7e46baa4eac812083a942
+      internalID: -2707341672220421511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1297
+        width: 268
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd5c763db8644090863f83c93764983
+      internalID: -8849684167047032770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1277
+        width: 257
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ba4f8d0fce458585add77e99c0397
+      internalID: 4189537173255424837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1270
+        width: 259
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eefd8fc024d4054a407bc965e6f91b
+      internalID: -1595134695736740070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_10
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1256
+        width: 266
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac134bb88204856946dabd780bbd53
+      internalID: -7486897436597438598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1265
+        width: 268
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6a2c3370614508b5afc1c252ae79f
+      internalID: 7386743807932714693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1277
+        width: 262
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e9c42dd4d6640e1a6a877c954a21d5
+      internalID: 8639590441901446056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1261
+        width: 256
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81602a95f5657400a8416cbd1d551305
+      internalID: -8369363026941064763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 944
+        width: 262
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc297259a62c14ea3a09e653e4a87bae
+      internalID: -8535710582239956982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 930
+        width: 256
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb58daabec62465e9fe68a6d33c8be3
+      internalID: 2493399365155336362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 937
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d543c38980472d9ca682cee72c0d0
+      internalID: 867693101282864621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_17
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 942
+        width: 259
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b80cad7b0e744f5acf4e2e34ee88a9
+      internalID: 5411489068813903002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 942
+        width: 263
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3524a17bae4d569940453908fe090
+      internalID: -1624547228594647237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikeSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 944
+        width: 275
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f752b2af5208f4a67b694582d0c2a413
+      internalID: -1985687407596201794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
