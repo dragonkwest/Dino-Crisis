@@ -9,22 +9,58 @@ public class Colors : MonoBehaviour
     public Button Green;
     public Button Red;
     public Button Blue;
-    SpriteRenderer sprite;
+
+    public int isSkinRedSold;
+    public int isSkinBlueSold;
+    //public int SkinColor;
+
+    public SpriteRenderer sprite;
 
     void Start()
     {
-        sprite = GetComponent<SpriteRenderer>();
+       
 
     }
 
     // Update is called once per frame
     void Update()
     {
-            if (!Input.GetMouseButtonDown(0))
+        //SkinColor= playerprefs.getint("SkinColor"); put spriterenderer sprite at top
+        //if (SkinColor== 1)
+        //{ sprite.color = new Color(1, 0, 0, 1);}
+        isSkinRedSold = PlayerPrefs.GetInt("isRedSkinSold");
+        isSkinBlueSold = PlayerPrefs.GetInt("isBlueSkinSold");
 
-            {
-            // Change the 'color' property of the 'Sprite Renderer'
-            sprite.color = new Color(1, 0, 0, 1);
+        if (isSkinRedSold == 1)
+        {
+            Red.interactable = true;
         }
+        else
+        {
+            Red.interactable = false;
+        }
+        if (isSkinBlueSold == 1)
+        {
+            Blue.interactable = true;
+        }
+        else
+        {
+            Blue.interactable = false;
+        }
+        
+            // Change the 'color' property of the 'Sprite Renderer'
+           
     }
+    public void TurnRed()
+    {
+        sprite.color = new Color(1, 0, 0, 1);
+        PlayerPrefs.SetInt("SkinColor", 1);
+    }
+    public void TurnBlue()
+    {
+        sprite.color = new Color(0, 0, 1, 1);
+        PlayerPrefs.SetInt("SkinColor", 2);
+    }
+
+
 }

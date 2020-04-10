@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DinoTutorial.unity
     guid: f114b3715e699471b946ffcf85ffceb0
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 910a7d0ba31ff8749be6f9b23577f727
   m_configObjects: {}
