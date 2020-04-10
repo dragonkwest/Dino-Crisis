@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: b0e229847421f469e8f14cbb95bb816b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5499274353126947352
+    second: Archaeopteryx_Sprite_Sheet_0
+  - first:
+      213: -6858067802620023948
+    second: Archaeopteryx_Sprite_Sheet_1
+  - first:
+      213: -4093480374822585366
+    second: Archaeopteryx_Sprite_Sheet_2
+  - first:
+      213: -2924193994280125442
+    second: Archaeopteryx_Sprite_Sheet_3
+  - first:
+      213: 2495199775874417533
+    second: Archaeopteryx_Sprite_Sheet_4
+  - first:
+      213: -7223867623002710557
+    second: Archaeopteryx_Sprite_Sheet_5
+  - first:
+      213: -1059475536238993061
+    second: Archaeopteryx_Sprite_Sheet_6
+  - first:
+      213: 2629873095072066392
+    second: Archaeopteryx_Sprite_Sheet_7
+  - first:
+      213: -5982791770224260111
+    second: Archaeopteryx_Sprite_Sheet_8
+  - first:
+      213: 7977209102561203915
+    second: Archaeopteryx_Sprite_Sheet_9
+  - first:
+      213: -82264330009152176
+    second: Archaeopteryx_Sprite_Sheet_10
+  - first:
+      213: -5816648973742731974
+    second: Archaeopteryx_Sprite_Sheet_11
+  - first:
+      213: -1642681721179148672
+    second: Archaeopteryx_Sprite_Sheet_12
+  - first:
+      213: 9105828094987876447
+    second: Archaeopteryx_Sprite_Sheet_13
+  - first:
+      213: 663494018660567483
+    second: Archaeopteryx_Sprite_Sheet_14
+  - first:
+      213: -5329980120566033926
+    second: Archaeopteryx_Sprite_Sheet_15
+  - first:
+      213: 6110031795822927185
+    second: Archaeopteryx_Sprite_Sheet_16
+  - first:
+      213: -5394439726023048011
+    second: Archaeopteryx_Sprite_Sheet_17
+  - first:
+      213: 5595187827825461630
+    second: Archaeopteryx_Sprite_Sheet_18
+  - first:
+      213: -6197901155236957512
+    second: Archaeopteryx_Sprite_Sheet_19
+  - first:
+      213: -2700904538707543337
+    second: Archaeopteryx_Sprite_Sheet_20
+  - first:
+      213: 6406872269523628409
+    second: Archaeopteryx_Sprite_Sheet_21
+  - first:
+      213: -984878206101924722
+    second: Archaeopteryx_Sprite_Sheet_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 882
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5c99de4f6a439f9956de85138dcad
+      internalID: 5499274353126947352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 887
+        width: 207
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c2f7e653e940528dcfe6001e1331a
+      internalID: -6858067802620023948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 893
+        width: 225
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0fd5f748adc488f9aedc91b8dc1754
+      internalID: -4093480374822585366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 896
+        width: 219
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef3ce081ef84ccf81e9b0b65ef2d9a
+      internalID: -2924193994280125442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 922
+        width: 243
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee5d07bda0a41ac9bc4a125c8bdbe9
+      internalID: 2495199775874417533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 941
+        width: 202
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0545879a84542ce93d2c7f4cd82015
+      internalID: -7223867623002710557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 652
+        width: 148
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8e58c4f4754f7992e12dec5806d70
+      internalID: -1059475536238993061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 654
+        width: 142
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab794e8a2b65474aac3f8a2d8dfd2a1
+      internalID: 2629873095072066392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 636
+        width: 170
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5093a6c8757f402aa84960d012ea2f6
+      internalID: -5982791770224260111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 619
+        width: 217
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5425aaeee89145f5ad4371e1ad3b5d7
+      internalID: 7977209102561203915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 610
+        width: 223
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d87cd40da54f7cb509c4b4adf6799
+      internalID: -82264330009152176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 607
+        width: 194
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd534b35b8b432a96cf0c3239bc9fd
+      internalID: -5816648973742731974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 307
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550042ca4d43d440eaea94e8e9f527d8
+      internalID: -1642681721179148672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 179
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb2f28c2f3b457dbe458d2649a11f1
+      internalID: 9105828094987876447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 338
+        width: 205
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd5649965d24b3c851bfd13037b35b
+      internalID: 663494018660567483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 325
+        width: 207
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3775d00d5f5e45e3888a5054ad0fcf2
+      internalID: -5329980120566033926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 288
+        width: 231
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853e54f1845f445082bb2131e5abb09
+      internalID: 6110031795822927185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 290
+        width: 193
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced6654065af4e7c925f0e8fc29fb3f
+      internalID: -5394439726023048011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 217
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a77f12a99cf4a83a6b77f005b94b4a
+      internalID: 5595187827825461630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 208
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef46bb25eb5045f6b01a41b8dc67277
+      internalID: -6197901155236957512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 63
+        width: 232
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ab90cf680546c3b7a219a7e7b1d89
+      internalID: -2700904538707543337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 70
+        width: 232
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec79682c46ad4412aa3f10bcef9d87fa
+      internalID: 6406872269523628409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archaeopteryx_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 45
+        width: 205
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0cd9d43b6eb4627a56e06926d35724
+      internalID: -984878206101924722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
