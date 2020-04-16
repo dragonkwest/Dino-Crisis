@@ -15,7 +15,7 @@ namespace Anima2D
 
 		public override void InitializeReflection()
 		{
-			base.InitializeReflection();
+            base.InitializeReflection();
 
 			Type[] l_GetCurrentValueTypes = { typeof(GameObject), typeof(EditorCurveBinding) };
 			m_GetCurrentValueMethod = m_CurveBindingUtilityType.GetMethod("GetCurrentValue",BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.Static, null, l_GetCurrentValueTypes, null);
