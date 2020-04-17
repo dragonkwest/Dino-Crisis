@@ -1,37 +1,25 @@
 fileFormatVersion: 2
-guid: 19851c459acef4af8beddeca4ddef2b8
+guid: 9bc22afdf79f83248b7331fc5f0a54e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5380708958923273203
-    second: AttackingPlantSheet_0
+      213: 9073845281653625145
+    second: IMG_0070_0
   - first:
-      213: -207771897429610172
-    second: AttackingPlantSheet_1
+      213: 5746969527941037214
+    second: IMG_0070_1
   - first:
-      213: 3144138222926327885
-    second: AttackingPlantSheet_2
+      213: -6760225107212462786
+    second: IMG_0070_2
   - first:
-      213: 998837385959735627
-    second: AttackingPlantSheet_3
+      213: -1924266700409324417
+    second: IMG_0070_3
   - first:
-      213: -7816967491828991960
-    second: AttackingPlantSheet_4
+      213: 901035217160356287
+    second: IMG_0070_4
   - first:
-      213: -1927794107433900409
-    second: AttackingPlantSheet_5
-  - first:
-      213: -8185141749466909569
-    second: AttackingPlantSheet_6
-  - first:
-      213: 8800295998753501474
-    second: AttackingPlantSheet_7
-  - first:
-      213: -6765742518146388647
-    second: AttackingPlantSheet_8
-  - first:
-      213: 8912917053659712733
-    second: AttackingPlantSheet_9
+      213: 5059763979243064046
+    second: IMG_0070_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -113,18 +101,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -140,55 +116,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AttackingPlantSheet_0
+      name: IMG_0070_0
       rect:
         serializedVersion: 2
-        x: 78
-        y: 522
-        width: 177
-        height: 411
+        x: 10
+        y: 1520
+        width: 1553
+        height: 464
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -752.5, y: 232}
+        - {x: -776.5, y: 50}
+        - {x: -776.5, y: -197}
+        - {x: -727.5, y: -231}
+        - {x: -644.5, y: -232}
+        - {x: 734.5, y: -232}
+        - {x: 776.5, y: -158}
+        - {x: 776.5, y: 146}
+        - {x: 725.5, y: 232}
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c79b1e803321e4c118780ef4fff9d82e
-      internalID: 5380708958923273203
+      spriteID: d7c09b9ca19605f4ead0d578f7007c56
+      internalID: 9073845281653625145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AttackingPlantSheet_1
+      name: IMG_0070_1
       rect:
         serializedVersion: 2
-        x: 307
-        y: 523
-        width: 264
-        height: 336
+        x: 72
+        y: 928
+        width: 634
+        height: 400
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -287, y: 200}
+        - {x: -317, y: 196}
+        - {x: -317, y: -200}
+        - {x: 317, y: -200}
+        - {x: 317, y: 195}
+        - {x: 306, y: 200}
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b74feddce0a6c4466addecee22bc3300
-      internalID: -207771897429610172
+      spriteID: 4d4dc29133c43c84393a3449ae7da483
+      internalID: 5746969527941037214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AttackingPlantSheet_2
+      name: IMG_0070_2
       rect:
         serializedVersion: 2
-        x: 613
-        y: 532
-        width: 314
-        height: 224
+        x: 801
+        y: 826
+        width: 579
+        height: 470
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5372db7302d304995bd7a02680da8fbd
-      internalID: 3144138222926327885
+      spriteID: 2ccc74f7c2290af4b86e455b18b4cdad
+      internalID: -6760225107212462786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AttackingPlantSheet_3
+      name: IMG_0070_3
       rect:
         serializedVersion: 2
-        x: 972
-        y: 537
-        width: 315
-        height: 164
+        x: 1410
+        y: 846
+        width: 506
+        height: 392
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e2a4e05968784d8f98b04a9b604eb9a
-      internalID: 998837385959735627
+      spriteID: 64a11a60ebb5daa47aa0658297b978e2
+      internalID: -1924266700409324417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AttackingPlantSheet_4
+      name: IMG_0070_4
       rect:
         serializedVersion: 2
-        x: 1363
-        y: 521
-        width: 317
-        height: 320
+        x: 86
+        y: 272
+        width: 1364
+        height: 348
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58daee74daa0544649ce1cdc55914c37
-      internalID: -7816967491828991960
+      spriteID: c90ad8dfe29d41c4daeadf4f1d297c04
+      internalID: 901035217160356287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AttackingPlantSheet_5
+      name: IMG_0070_5
       rect:
         serializedVersion: 2
-        x: 1756
-        y: 499
-        width: 169
-        height: 417
+        x: 1550
+        y: 236
+        width: 416
+        height: 354
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,92 +250,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8f729aff3f124b279e3a756980d1ac2
-      internalID: -1927794107433900409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AttackingPlantSheet_6
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 88
-        width: 230
-        height: 371
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 940746fbbec864ed0a1a3b4aa9a85275
-      internalID: -8185141749466909569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AttackingPlantSheet_7
-      rect:
-        serializedVersion: 2
-        x: 378
-        y: 77
-        width: 317
-        height: 245
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85f8cc32c6b8c48ae9aeaf229c5d04a5
-      internalID: 8800295998753501474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AttackingPlantSheet_8
-      rect:
-        serializedVersion: 2
-        x: 763
-        y: 104
-        width: 321
-        height: 147
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f10f61a3a23c4a4fbf64b1ce5640ddc
-      internalID: -6765742518146388647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AttackingPlantSheet_9
-      rect:
-        serializedVersion: 2
-        x: 1155
-        y: 85
-        width: 284
-        height: 359
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82312e756929b4c85a4ffaa0fb5dd73a
-      internalID: 8912917053659712733
+      spriteID: faa7b37138663764ca530a25cf766c9d
+      internalID: 5059763979243064046
       vertices: []
       indices: 
       edges: []
