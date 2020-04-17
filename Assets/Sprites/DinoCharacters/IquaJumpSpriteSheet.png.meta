@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 54268b14fc7204523b817c1935c6f829
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6096790522823409380
+    second: IquaJumpSpriteSheet_0
+  - first:
+      213: -4265706497556895064
+    second: IquaJumpSpriteSheet_1
+  - first:
+      213: 8469702640092146581
+    second: IquaJumpSpriteSheet_2
+  - first:
+      213: -3185760131767396314
+    second: IquaJumpSpriteSheet_3
+  - first:
+      213: -1329427446132050017
+    second: IquaJumpSpriteSheet_4
+  - first:
+      213: 7164809857556721878
+    second: IquaJumpSpriteSheet_5
+  - first:
+      213: 4644734576651050543
+    second: IquaJumpSpriteSheet_6
+  - first:
+      213: 5067218622285874946
+    second: IquaJumpSpriteSheet_7
+  - first:
+      213: 4106754422034910158
+    second: IquaJumpSpriteSheet_8
+  - first:
+      213: 2254131744831517372
+    second: IquaJumpSpriteSheet_9
+  - first:
+      213: -6163990820454045564
+    second: IquaJumpSpriteSheet_10
+  - first:
+      213: 6001613256573006181
+    second: IquaJumpSpriteSheet_11
+  - first:
+      213: -6731734933730642628
+    second: IquaJumpSpriteSheet_12
+  - first:
+      213: 7786626788178933488
+    second: IquaJumpSpriteSheet_13
+  - first:
+      213: 4978667587077713089
+    second: IquaJumpSpriteSheet_14
+  - first:
+      213: 7316106342562576490
+    second: IquaJumpSpriteSheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1138
+        width: 422
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9cc4cbc379f4ae9b683825de51f87c
+      internalID: -6096790522823409380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1160
+        width: 417
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30161b090ee87473cb9d51f53bafe152
+      internalID: -4265706497556895064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1145
+        width: 393
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc8ae8c6afe49b69653a09a126a5b8
+      internalID: 8469702640092146581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1121
+        width: 335
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830811147b934540b6b7ab12aa91a61
+      internalID: -3185760131767396314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 668
+        width: 303
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cff1b95a46c45d68d0ca4de47127de
+      internalID: -1329427446132050017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 876
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e716e825ca5488ea91bb893b26eeb0
+      internalID: 7164809857556721878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 876
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d02c72a3ccb84f41b9b2237ae366e86
+      internalID: 4644734576651050543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 621
+        width: 208
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca9cbab6dc84f758b1213320a17598
+      internalID: 5067218622285874946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 597
+        width: 214
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ee750f0ca94c43b15d5fdf56da734
+      internalID: 4106754422034910158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 868
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20d90ed8fda49e581e741b953b6acb
+      internalID: 2254131744831517372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 866
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942a1bf56e1d4987b36cc9004c5246c
+      internalID: -6163990820454045564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073e10288fb844aa825cce5f0c9a624
+      internalID: 6001613256573006181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 119
+        width: 238
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdd3f27f5ca5485ebd0f63804214892
+      internalID: -6731734933730642628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 152
+        width: 443
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94133603bde834ad8b457fbb4c2fae03
+      internalID: 7786626788178933488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 163
+        width: 458
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a3679d974640fc8a3519e0f35be13
+      internalID: 4978667587077713089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquaJumpSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 194
+        width: 432
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da270be4b57d346249cb00efbd1cd748
+      internalID: 7316106342562576490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

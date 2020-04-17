@@ -1,8 +1,16 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿//
+//ShopControlScript.cs for unity-chan!
+//
+//Original Script is here:
+//ricopin / ShopControlScript.cs
+//Rocket Jump : http://rocketjump.skr.jp/unity3d/109/
+//https://twitter.com/ricopin416
+//
+//Revised by N.Kobayashi 2014/06/20
+//Anima2D adaptation by Mandarina Games 2016/03/18
+//
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
 public class ShopControlScript : MonoBehaviour
 {
@@ -58,5 +66,7 @@ public class ShopControlScript : MonoBehaviour
         skinPrice2.text = "Sold!";
         buyButton.gameObject.SetActive(false);
     }
+
 }
+
 
