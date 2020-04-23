@@ -24,6 +24,6 @@ public class Star : MonoBehaviour {
 		{
 			theLevelManager.AddCoins (coinValue);
 			gameObject.SetActive (false);
-		}
+        }
 	}
 }

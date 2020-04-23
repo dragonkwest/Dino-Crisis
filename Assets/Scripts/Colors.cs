@@ -62,5 +62,10 @@ public class Colors : MonoBehaviour
         PlayerPrefs.SetInt("SkinColor", 2);
     }
 
+    public void TurnGreen()
+    {
+        sprite.color = new Color(0, 0, 0, 0);
+        PlayerPrefs.SetInt("SkinColor", 0);
+    }
 
 }
