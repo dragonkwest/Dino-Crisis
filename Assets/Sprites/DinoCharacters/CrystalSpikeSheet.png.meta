@@ -161,12 +161,12 @@ TextureImporter:
       name: CrystalSpikeSheet_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 1641
-        width: 247
-        height: 327
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 39
+        y: 1649
+        width: 233
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5055578, y: 0.11928595}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -182,12 +182,12 @@ TextureImporter:
       name: CrystalSpikeSheet_1
       rect:
         serializedVersion: 2
-        x: 304
-        y: 1620
-        width: 268
-        height: 346
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 314
+        y: 1647
+        width: 229
+        height: 166
+      alignment: 9
+      pivot: {x: 0.50235546, y: 0.07714182}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -203,12 +203,12 @@ TextureImporter:
       name: CrystalSpikeSheet_2
       rect:
         serializedVersion: 2
-        x: 592
-        y: 1630
-        width: 271
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 600
+        y: 1646
+        width: 231
+        height: 289
+      alignment: 9
+      pivot: {x: 0.510697, y: 0.028392963}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -224,12 +224,12 @@ TextureImporter:
       name: CrystalSpikeSheet_3
       rect:
         serializedVersion: 2
-        x: 887
-        y: 1635
-        width: 256
-        height: 345
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 903
+        y: 1646
+        width: 232
+        height: 292
+      alignment: 9
+      pivot: {x: 0.50998557, y: 0.030552695}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -245,12 +245,12 @@ TextureImporter:
       name: CrystalSpikeSheet_4
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 1632
-        width: 259
-        height: 346
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1193
+        y: 1644
+        width: 233
+        height: 294
+      alignment: 9
+      pivot: {x: 0.49469805, y: 0.03353944}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -266,12 +266,12 @@ TextureImporter:
       name: CrystalSpikeSheet_5
       rect:
         serializedVersion: 2
-        x: 1474
-        y: 1616
-        width: 259
-        height: 369
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1476
+        y: 1644
+        width: 237
+        height: 294
+      alignment: 9
+      pivot: {x: 0.49478704, y: 0.02933715}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -287,12 +287,12 @@ TextureImporter:
       name: CrystalSpikeSheet_6
       rect:
         serializedVersion: 2
-        x: 1752
-        y: 1625
-        width: 243
-        height: 358
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1757
+        y: 1645
+        width: 233
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5159074, y: 0.038806655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -308,12 +308,12 @@ TextureImporter:
       name: CrystalSpikeSheet_7
       rect:
         serializedVersion: 2
-        x: 9
-        y: 1297
-        width: 268
-        height: 314
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 31
+        y: 1303
+        width: 237
+        height: 294
+      alignment: 9
+      pivot: {x: 0.52305025, y: 0.03463641}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -329,12 +329,12 @@ TextureImporter:
       name: CrystalSpikeSheet_8
       rect:
         serializedVersion: 2
-        x: 301
-        y: 1277
-        width: 257
-        height: 334
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 312
+        y: 1297
+        width: 235
+        height: 292
+      alignment: 9
+      pivot: {x: 0.51442206, y: 0.05448976}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -350,12 +350,12 @@ TextureImporter:
       name: CrystalSpikeSheet_9
       rect:
         serializedVersion: 2
-        x: 589
-        y: 1270
-        width: 259
-        height: 341
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 599
+        y: 1295
+        width: 235
+        height: 296
+      alignment: 9
+      pivot: {x: 0.50477034, y: 0.04136699}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -371,12 +371,12 @@ TextureImporter:
       name: CrystalSpikeSheet_10
       rect:
         serializedVersion: 2
-        x: 875
-        y: 1256
-        width: 266
-        height: 350
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 884
+        y: 1295
+        width: 233
+        height: 293
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.042272158}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -392,12 +392,12 @@ TextureImporter:
       name: CrystalSpikeSheet_11
       rect:
         serializedVersion: 2
-        x: 1177
-        y: 1265
-        width: 268
-        height: 339
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1182
+        y: 1292
+        width: 230
+        height: 296
+      alignment: 9
+      pivot: {x: 0.52148706, y: 0.053386793}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -413,12 +413,12 @@ TextureImporter:
       name: CrystalSpikeSheet_12
       rect:
         serializedVersion: 2
-        x: 1450
-        y: 1277
-        width: 262
-        height: 327
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1470
+        y: 1289
+        width: 229
+        height: 295
+      alignment: 9
+      pivot: {x: 0.51618576, y: 0.035120662}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -434,12 +434,12 @@ TextureImporter:
       name: CrystalSpikeSheet_13
       rect:
         serializedVersion: 2
-        x: 1736
-        y: 1261
-        width: 256
-        height: 335
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1749
+        y: 1289
+        width: 233
+        height: 295
+      alignment: 9
+      pivot: {x: 0.51060545, y: 0.030932616}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -455,12 +455,12 @@ TextureImporter:
       name: CrystalSpikeSheet_14
       rect:
         serializedVersion: 2
-        x: 11
-        y: 944
-        width: 262
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 28
+        y: 967
+        width: 235
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5094312, y: 0.04005644}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -476,12 +476,12 @@ TextureImporter:
       name: CrystalSpikeSheet_15
       rect:
         serializedVersion: 2
-        x: 297
-        y: 930
-        width: 256
-        height: 345
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 308
+        y: 970
+        width: 231
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5048261, y: 0.042100154}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -497,12 +497,12 @@ TextureImporter:
       name: CrystalSpikeSheet_16
       rect:
         serializedVersion: 2
-        x: 570
-        y: 937
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 585
+        y: 983
+        width: 236
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5092895, y: 0.020953368}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -518,12 +518,12 @@ TextureImporter:
       name: CrystalSpikeSheet_17
       rect:
         serializedVersion: 2
-        x: 865
-        y: 942
-        width: 259
-        height: 328
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 878
+        y: 978
+        width: 233
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5100732, y: 0.07775542}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -539,12 +539,12 @@ TextureImporter:
       name: CrystalSpikeSheet_18
       rect:
         serializedVersion: 2
-        x: 1158
-        y: 942
-        width: 263
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1171
+        y: 986
+        width: 236
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5093953, y: 0.045002863}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -560,12 +560,12 @@ TextureImporter:
       name: CrystalSpikeSheet_19
       rect:
         serializedVersion: 2
-        x: 1441
-        y: 944
-        width: 275
-        height: 314
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1455
+        y: 985
+        width: 235
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15118621}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
