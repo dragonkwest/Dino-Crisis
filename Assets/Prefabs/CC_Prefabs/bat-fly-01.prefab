@@ -15,7 +15,11 @@ GameObject:
   - component: {fileID: 5324501975230873792}
   - component: {fileID: 2455019002404799217}
   m_Layer: 10
+<<<<<<< HEAD:Assets/Prefabs/CC_Prefabs/bat-fly-01.prefab
   m_Name: bat-fly-01
+=======
+  m_Name: Archeoraptyx
+>>>>>>> f7e269d41deb9550b53988e94134ef1bb2386ee2:Assets/Prefabs/CC_Prefabs/Archeoraptyx.prefab
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 5499274353126947352, guid: b0e229847421f469e8f14cbb95bb816b,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
