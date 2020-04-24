@@ -213,11 +213,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD:Assets/Prefabs/CC_Prefabs/Dragon Holder.prefab
   m_Offset: {x: 0.0066566467, y: -0.00023078918}
-=======
-  m_Offset: {x: -0.0046463013, y: 0.02845776}
->>>>>>> f7e269d41deb9550b53988e94134ef1bb2386ee2:Assets/Prefabs/CC_Prefabs/DocodonRunning.prefab
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -228,11 +224,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD:Assets/Prefabs/CC_Prefabs/Dragon Holder.prefab
   m_Size: {x: 2.024788, y: 0.7834048}
-=======
-  m_Size: {x: 1.6254578, y: 0.5396178}
->>>>>>> f7e269d41deb9550b53988e94134ef1bb2386ee2:Assets/Prefabs/CC_Prefabs/DocodonRunning.prefab
   m_EdgeRadius: 0
 --- !u!61 &6113608
 BoxCollider2D:
@@ -247,7 +239,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0033302307, y: 0.020480514}
+  m_Offset: {x: 0.0033302307, y: -0.003451109}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -258,7 +250,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.6095047, y: 0.5715263}
+  m_Size: {x: 2.0083694, y: 0.7470255}
   m_EdgeRadius: 0
 --- !u!50 &5009014
 Rigidbody2D:
