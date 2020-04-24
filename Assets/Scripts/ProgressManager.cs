@@ -35,7 +35,7 @@ public class ProgressManager : MonoBehaviour
 
         else if (currentLevel == 1)
         {
-            SceneManager.LoadScene("LoadingScene4"); //LoadingScene2 loads the first level
+            SceneManager.LoadScene("LoadingScene3"); //LoadingScene2 loads the first level
         }
      }
        

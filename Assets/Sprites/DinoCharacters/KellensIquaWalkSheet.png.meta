@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: f96d92369156b464084989ea20735f02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8755006909644600962
+    second: KellensIquaWalkSheet_0
+  - first:
+      213: -4944451640746131192
+    second: KellensIquaWalkSheet_1
+  - first:
+      213: -8681574357794218920
+    second: KellensIquaWalkSheet_2
+  - first:
+      213: 1015795429255015737
+    second: KellensIquaWalkSheet_3
+  - first:
+      213: -6035757073410430703
+    second: KellensIquaWalkSheet_4
+  - first:
+      213: 7700499735749802621
+    second: KellensIquaWalkSheet_5
+  - first:
+      213: 7716297314679880636
+    second: KellensIquaWalkSheet_6
+  - first:
+      213: 2153287887535235474
+    second: KellensIquaWalkSheet_7
+  - first:
+      213: -612858554694516718
+    second: KellensIquaWalkSheet_8
+  - first:
+      213: -7565908824431975647
+    second: KellensIquaWalkSheet_9
+  - first:
+      213: -2217272967521762846
+    second: KellensIquaWalkSheet_10
+  - first:
+      213: -7905446605632312960
+    second: KellensIquaWalkSheet_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1012
+        width: 540
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b847513fd94288b4a016a74dd2c06
+      internalID: -8755006909644600962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1029
+        width: 539
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c23780640e477bb9ac0be847f59c1
+      internalID: -4944451640746131192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1030
+        width: 513
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e660add9814631a00397ea8ab50c4
+      internalID: -8681574357794218920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 675
+        width: 527
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57509eb1ddfcb4c789c5c6ffe22ab10b
+      internalID: 1015795429255015737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 696
+        width: 529
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73fcd7342c68413fb40ebfc621b31f6
+      internalID: -6035757073410430703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 713
+        width: 527
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d240a06ee2477488a38111ebfb7b9
+      internalID: 7700499735749802621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 352
+        width: 528
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f292cc4e9d8434c8d132123a1cc7cf
+      internalID: 7716297314679880636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 383
+        width: 535
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecda9b789275c48cc9885579d3835a59
+      internalID: 2153287887535235474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 392
+        width: 542
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bedb72bfef8423f91b4c5d048eb1c9
+      internalID: -612858554694516718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 543
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd97f4aea6984baa8eb6985486e0be1
+      internalID: -7565908824431975647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 61
+        width: 533
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c8ae0c222d4a229135ffd7422e57b
+      internalID: -2217272967521762846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KellensIquaWalkSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 72
+        width: 533
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7292b9e0c97a24dd39bafb1c6dda1d10
+      internalID: -7905446605632312960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

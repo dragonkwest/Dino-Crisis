@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 720c3fa7a66c845eb8cd6c30cf6d8867
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1280764455480975069
+    second: IquanodonRunSpriteSheet_0
+  - first:
+      213: -7533704107306024151
+    second: IquanodonRunSpriteSheet_1
+  - first:
+      213: 1871594169509314962
+    second: IquanodonRunSpriteSheet_2
+  - first:
+      213: 277122735909521146
+    second: IquanodonRunSpriteSheet_3
+  - first:
+      213: 575536814836034509
+    second: IquanodonRunSpriteSheet_4
+  - first:
+      213: -1302234984702125829
+    second: IquanodonRunSpriteSheet_5
+  - first:
+      213: -2711578373063707038
+    second: IquanodonRunSpriteSheet_6
+  - first:
+      213: 3531733918129141326
+    second: IquanodonRunSpriteSheet_7
+  - first:
+      213: -6707515658746210643
+    second: IquanodonRunSpriteSheet_8
+  - first:
+      213: -5112468542735809380
+    second: IquanodonRunSpriteSheet_9
+  - first:
+      213: -3391484397406430663
+    second: IquanodonRunSpriteSheet_10
+  - first:
+      213: 2555767160879937125
+    second: IquanodonRunSpriteSheet_11
+  - first:
+      213: 3271911974117896950
+    second: IquanodonRunSpriteSheet_12
+  - first:
+      213: 6009887381657688122
+    second: IquanodonRunSpriteSheet_13
+  - first:
+      213: 7695088272320540190
+    second: IquanodonRunSpriteSheet_14
+  - first:
+      213: -8095466693825472838
+    second: IquanodonRunSpriteSheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1552
+        width: 391
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5a1a946d39429e9dfc21fcb92c839
+      internalID: 1280764455480975069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1162
+        width: 394
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d958253e1126041a8be3dd6344722217
+      internalID: -7533704107306024151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1188
+        width: 441
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9d3e16cb9441e699eb739507dfeeb
+      internalID: 1871594169509314962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1174
+        width: 468
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8244dd7065d410cb52c7b4ce3b2074
+      internalID: 277122735909521146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1188
+        width: 502
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb866c047233640b2adae50aefd59f64
+      internalID: 575536814836034509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 812
+        width: 521
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121adf738ef004c5490773af643bc58b
+      internalID: -1302234984702125829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1036
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0523bfa9dce4483b9a6feade664f70
+      internalID: -2711578373063707038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 804
+        width: 487
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f17800c451d4b92ab9a24e477a9b37
+      internalID: 3531733918129141326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 789
+        width: 540
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e0c7fdd46b4761b3c08ac54937a63
+      internalID: -6707515658746210643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 418
+        width: 458
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8d889697b3f4dc9a407aef354417f7
+      internalID: -5112468542735809380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 445
+        width: 450
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982907974217342a295f03eebc8c2a58
+      internalID: -3391484397406430663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 451
+        width: 475
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98e47ef069e416cbf575e87e7ca82a
+      internalID: 2555767160879937125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 521
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a8460761f874276acd8f7b8f69213b
+      internalID: 3271911974117896950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 126
+        width: 459
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa46c66526e4428afcfb7d7f264c91
+      internalID: 6009887381657688122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 135
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c4e35243cc43b5ad1d479adde0a8b
+      internalID: 7695088272320540190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IquanodonRunSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 121
+        width: 403
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c4aad10b9b34458be7b5e924f8a4f7
+      internalID: -8095466693825472838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

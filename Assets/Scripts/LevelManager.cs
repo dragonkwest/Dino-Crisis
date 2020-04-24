@@ -15,7 +15,7 @@ public class LevelManager : MonoBehaviour {
     public Rigidbody2D rb2D;
     //public Rigidbody2D rb2D2;
 
-    public int coinCount;
+    //public int coinCount;
     //
 	//public float PlayerX;
 	//public float PlayerY;
@@ -23,7 +23,7 @@ public class LevelManager : MonoBehaviour {
 
 	public GameObject DieBurst;
 
-	public Text coinText;
+	//public Text coinText;
 
 	public Image heart1;
 	public Image heart2;
@@ -46,7 +46,7 @@ public class LevelManager : MonoBehaviour {
 	//public Text livesText;
     //
 	//public GameObject gameOverScreen;
-	public AudioSource coinSound;
+	//public AudioSource coinSound;
 	public AudioSource levelMusic;
 	public AudioSource gameOverMusic;
     //
@@ -66,12 +66,12 @@ public class LevelManager : MonoBehaviour {
         
 		objectsToReset = FindObjectsOfType<ResetOnRespawn> ();
 
-		if (PlayerPrefs.HasKey ("CoinCount")) 
-		{
-			coinCount = PlayerPrefs.GetInt ("CoinCount");
-		}
+		//if (PlayerPrefs.HasKey ("CoinCount")) 
+		//{
+		//	coinCount = PlayerPrefs.GetInt ("CoinCount");
+		//}
 
-		coinText.text = "Fossils: " + coinCount;
+		//coinText.text = "Stars: " + coinCount;
 
 		//if (PlayerPrefs.HasKey ("PlayerLives")) 
 		//{
@@ -102,8 +102,7 @@ public class LevelManager : MonoBehaviour {
 			Respawn ();
 			respawning = true;
 		}
-
-		PlayerPrefs.SetInt("CoinCount", coinCount);
+	
 	}
 
 	public void Respawn ()
@@ -146,8 +145,8 @@ public class LevelManager : MonoBehaviour {
 		healthCount = maxHealth;
 		respawning = false;
 		UpdateHeartMeter ();
-		coinCount = 0;
-		coinText.text = "Fossils: " + coinCount;
+		//coinCount = 0;
+		//coinText.text = "Stars:" + coinCount;
 		thePlayer.transform.position = thePlayer.respawnPosition;
        // thePlayer2.transform.position = p2respawn.transform.position;
 
@@ -170,9 +169,9 @@ public class LevelManager : MonoBehaviour {
 
 	public void AddCoins (int coinsToAdd)
 	{
-		coinCount += coinsToAdd;
-		coinText.text = "Fossils: " + coinCount;
-		coinSound.Play ();
+		//coinCount += coinsToAdd;
+		//coinText.text = "Stars: " + coinCount;
+		//coinSound.Play ();
 	}
 
 	public void HurtPlayer (int damageToTake)
@@ -196,7 +195,7 @@ public class LevelManager : MonoBehaviour {
 			}
 
 		UpdateHeartMeter ();
-		coinSound.Play ();
+		//coinSound.Play ();
 		
 	}
 
@@ -264,13 +263,7 @@ public class LevelManager : MonoBehaviour {
 		//coinSound.Play ();
 	}
 
-    public void ResetCoins()
-    {
-		PlayerPrefs.SetInt("CoinCount", 0);
-		coinCount = PlayerPrefs.GetInt("CoinCount");
-		coinText.text = "Fossils: " + coinCount;
 
-    }
 
 
 }
