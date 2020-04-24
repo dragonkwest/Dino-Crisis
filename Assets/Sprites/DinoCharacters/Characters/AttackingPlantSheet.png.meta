@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 19851c459acef4af8beddeca4ddef2b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5380708958923273203
+    second: AttackingPlantSheet_0
+  - first:
+      213: -207771897429610172
+    second: AttackingPlantSheet_1
+  - first:
+      213: 3144138222926327885
+    second: AttackingPlantSheet_2
+  - first:
+      213: 998837385959735627
+    second: AttackingPlantSheet_3
+  - first:
+      213: -7816967491828991960
+    second: AttackingPlantSheet_4
+  - first:
+      213: -1927794107433900409
+    second: AttackingPlantSheet_5
+  - first:
+      213: -8185141749466909569
+    second: AttackingPlantSheet_6
+  - first:
+      213: 8800295998753501474
+    second: AttackingPlantSheet_7
+  - first:
+      213: -6765742518146388647
+    second: AttackingPlantSheet_8
+  - first:
+      213: 8912917053659712733
+    second: AttackingPlantSheet_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackingPlantSheet_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 522
+        width: 177
+        height: 411
+      alignment: 9
+      pivot: {x: 0.46887293, y: 0.015639108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b1e803321e4c118780ef4fff9d82e
+      internalID: 5380708958923273203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 523
+        width: 264
+        height: 336
+      alignment: 9
+      pivot: {x: 0.30522212, y: 0.021862756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74feddce0a6c4466addecee22bc3300
+      internalID: -207771897429610172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 532
+        width: 314
+        height: 224
+      alignment: 9
+      pivot: {x: 0.25435644, y: 0.020496096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5372db7302d304995bd7a02680da8fbd
+      internalID: 3144138222926327885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_3
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 537
+        width: 315
+        height: 164
+      alignment: 9
+      pivot: {x: 0.24930634, y: 0.01679695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a4e05968784d8f98b04a9b604eb9a
+      internalID: 998837385959735627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 520
+        width: 317
+        height: 320
+      alignment: 9
+      pivot: {x: 0.24509485, y: 0.011477852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58daee74daa0544649ce1cdc55914c37
+      internalID: -7816967491828991960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 499
+        width: 169
+        height: 417
+      alignment: 9
+      pivot: {x: 0.4836989, y: 0.0066059944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f729aff3f124b279e3a756980d1ac2
+      internalID: -1927794107433900409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 230
+        height: 371
+      alignment: 9
+      pivot: {x: 0.62376225, y: 0.00495014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940746fbbec864ed0a1a3b4aa9a85275
+      internalID: -8185141749466909569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 77
+        width: 317
+        height: 245
+      alignment: 9
+      pivot: {x: 0.72883505, y: 0.011243765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8cc32c6b8c48ae9aeaf229c5d04a5
+      internalID: 8800295998753501474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 104
+        width: 321
+        height: 147
+      alignment: 9
+      pivot: {x: 0.73456514, y: 0.018739661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10f61a3a23c4a4fbf64b1ce5640ddc
+      internalID: -6765742518146388647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingPlantSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 85
+        width: 284
+        height: 359
+      alignment: 9
+      pivot: {x: 0.6939934, y: 0.0051155407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82312e756929b4c85a4ffaa0fb5dd73a
+      internalID: 8912917053659712733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

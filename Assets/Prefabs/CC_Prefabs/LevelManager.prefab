@@ -47,7 +47,11 @@ MonoBehaviour:
   thePlayer: {fileID: 0}
   sr: {fileID: 0}
   rb2D: {fileID: 0}
+  coinCount: 0
   DieBurst: {fileID: 0}
+  DeathExplosion: {fileID: 9129303766080049034, guid: eff74d4eac64e40af902f4b9724d273f,
+    type: 3}
+  coinText: {fileID: 0}
   heart1: {fileID: 0}
   heart2: {fileID: 0}
   heart3: {fileID: 0}
@@ -59,5 +63,6 @@ MonoBehaviour:
   respawning: 0
   objectsToReset: []
   invincible: 0
+  coinSound: {fileID: 0}
   levelMusic: {fileID: 0}
   gameOverMusic: {fileID: 0}

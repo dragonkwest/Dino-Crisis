@@ -394,7 +394,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1087317747
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1280764455480975069, guid: 720c3fa7a66c845eb8cd6c30cf6d8867,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -508,7 +508,7 @@ MonoBehaviour:
   jumpGrace: 0.25
   jumpTime: 0
   groundGrace: 0.25
-  groundTime: 0
+  groundTime: 0.25
   jsound: 0
   joystick: 1
   leftJoystick: {fileID: 0}
@@ -555,7 +555,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6439371771781750298}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 652036f6a679ec34a9cb2c2862f4d7e9, type: 3}
   m_Name: 
@@ -649,5 +649,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88fcf538c0669449499543092113e7b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Dieburst: {fileID: 167010, guid: 64eab49863d3747709ff7926d16e0c38, type: 3}
+  Dieburst: {fileID: 9129303766080049034, guid: eff74d4eac64e40af902f4b9724d273f,
+    type: 3}
   bounceForce: 5

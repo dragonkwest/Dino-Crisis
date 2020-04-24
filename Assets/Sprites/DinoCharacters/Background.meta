@@ -1,6 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Sprites/DinoCharacters/Background.meta
 guid: 9f7037630555140a6bc5b6ae8e7ecc98
 folderAsset: yes
+========
+guid: 80a3a2f66a8f8a242b6c376f7bf41c6d
+>>>>>>>> d0527b4e63ca22d222c49e64dcb5cbe834e2552f:Assets/Scenes/PlayerSelect.unity.meta
+=======
+guid: 9f7037630555140a6bc5b6ae8e7ecc98
+folderAsset: yes
+>>>>>>> d0527b4e63ca22d222c49e64dcb5cbe834e2552f
 DefaultImporter:
   externalObjects: {}
   userData: 

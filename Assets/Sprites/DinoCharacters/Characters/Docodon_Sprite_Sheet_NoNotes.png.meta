@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 48371924cb69e48ed905b3ba7948f043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6691367097149570223
+    second: Docodon_Sprite_Sheet_NoNotes_0
+  - first:
+      213: 3446238766208358105
+    second: Docodon_Sprite_Sheet_NoNotes_1
+  - first:
+      213: -5579443685482807984
+    second: Docodon_Sprite_Sheet_NoNotes_2
+  - first:
+      213: -766937043900013586
+    second: Docodon_Sprite_Sheet_NoNotes_3
+  - first:
+      213: -2184442927117005848
+    second: Docodon_Sprite_Sheet_NoNotes_4
+  - first:
+      213: 32205345444049576
+    second: Docodon_Sprite_Sheet_NoNotes_5
+  - first:
+      213: 453853782621992322
+    second: Docodon_Sprite_Sheet_NoNotes_6
+  - first:
+      213: -1771771276813408004
+    second: Docodon_Sprite_Sheet_NoNotes_7
+  - first:
+      213: -2645645125125497822
+    second: Docodon_Sprite_Sheet_NoNotes_8
+  - first:
+      213: -5190696233321674514
+    second: Docodon_Sprite_Sheet_NoNotes_9
+  - first:
+      213: -3938532304169937767
+    second: Docodon_Sprite_Sheet_NoNotes_10
+  - first:
+      213: 3115694036516903787
+    second: Docodon_Sprite_Sheet_NoNotes_11
+  - first:
+      213: 3388748506500319850
+    second: Docodon_Sprite_Sheet_NoNotes_12
+  - first:
+      213: 5101743353882107676
+    second: Docodon_Sprite_Sheet_NoNotes_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 891
+        width: 200
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1768553c86d84a59a2969a0ccb97faa
+      internalID: 6691367097149570223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 889
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa6893a67ab437a985a6926b782855
+      internalID: 3446238766208358105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 889
+        width: 142
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8cfc6882e1e4c508cf5a5e774e7629
+      internalID: -5579443685482807984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 891
+        width: 139
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09ef160376542008ac76d714c266ba
+      internalID: -766937043900013586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_4
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 890
+        width: 148
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08628d859d841421d86faae484e8a909
+      internalID: -2184442927117005848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_5
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 889
+        width: 150
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78aa404321ae4b46870c21e0af9b370
+      internalID: 32205345444049576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 604
+        width: 168
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0361a6eae3f1147e8bac0a1110e07113
+      internalID: 453853782621992322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 603
+        width: 191
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77cf773ea08749849ace623e4a08f92
+      internalID: -1771771276813408004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 315
+        width: 200
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac0adb152e7845c8a67595b92d1c0ff
+      internalID: -2645645125125497822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 316
+        width: 204
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 6, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ebbc958e7bc4e9298c70539fc394c8
+      internalID: -5190696233321674514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 325
+        width: 250
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b62b52be624e55884f3e225744c36
+      internalID: -3938532304169937767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 322
+        width: 275
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b6e02ae78f4da98ddfde695033dec
+      internalID: 3115694036516903787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_12
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 318
+        width: 208
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e764ed32c5242b88965e9a538c1793
+      internalID: 3388748506500319850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Docodon_Sprite_Sheet_NoNotes_13
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 314
+        width: 216
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66eee853ff924708a64ebdaa5150d75
+      internalID: 5101743353882107676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

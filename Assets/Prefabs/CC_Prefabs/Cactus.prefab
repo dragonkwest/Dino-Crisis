@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4771420346675634389}
   - component: {fileID: 4771420346675634390}
   - component: {fileID: 4771420346675634391}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Cactus
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -113,13 +113,13 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.0011491776, y: 0.65130424}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.27811146, y: 0.026287133}
     oldSize: {x: 1.92, y: 2.84}
     newSize: {x: 1.92, y: 2.84}
     adaptiveTilingThreshold: 0.5
