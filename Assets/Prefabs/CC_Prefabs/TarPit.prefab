@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1530227488066572639}
   - component: {fileID: 1530227488055182455}
   m_Layer: 0
-  m_Name: death-spikes (2)
+  m_Name: TarPit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71,7 +71,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 6099861520993566547, guid: 553fbffebb15347bfa13dc99150e78d6,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -100,8 +100,8 @@ BoxCollider2D:
   m_Offset: {x: -0.0027976036, y: -0.19832039}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.21, y: 1.25}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 2.88, y: 0.23}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
